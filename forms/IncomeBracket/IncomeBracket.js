@@ -1,4 +1,4 @@
-/*
+
 let income = "";
 let tax = 0;
 
@@ -6,7 +6,7 @@ function taxBracket(x) {
   if(x < 30000) {
   return 8;
 }
-else if (x >= 30000 && x < 99999) {
+else if (x >= 30000 && x <= 99999) {
   return 15;
 }
 else {
@@ -23,4 +23,3 @@ btnAgain.onclick=function(){
   inptIncome.value = '';
   lblBracket.value = '';
 }
-*/

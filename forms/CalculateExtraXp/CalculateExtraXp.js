@@ -1,5 +1,5 @@
-
-let fuctionChoose = prompt("Enter average! if you'd like to do a normal equation or random! for a multiplication")
+/*
+fuctionChoose = prompt("Enter average! if you'd like to do a normal equation or random! for a multiplication")
 
 if (fuctionChoose == "average!"){
   num1 = Number(prompt("Enter one number: "));
@@ -27,3 +27,4 @@ else if (fuctionChoose == "random!"){
   result = calcRand (num1, rand);
   alert(`The answer is ${result}.`)
 }
+*/
