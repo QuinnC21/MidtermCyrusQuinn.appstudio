@@ -27,4 +27,7 @@ else if (fuctionChoose == "random!"){
   result = calcRand (num1, rand);
   alert(`The answer is ${result}.`)
 }
+
+else 
+  alert("Sorry, didn't recogize that command.")
 */

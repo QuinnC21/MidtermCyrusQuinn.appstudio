@@ -1,4 +1,4 @@
-
+/*
 let income = "";
 let tax = 0;
 
@@ -23,3 +23,4 @@ btnAgain.onclick=function(){
   inptIncome.value = '';
   lblBracket.value = '';
 }
+*/
